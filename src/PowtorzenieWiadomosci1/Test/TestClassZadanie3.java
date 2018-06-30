@@ -8,7 +8,7 @@ import org.junit.rules.ExpectedException;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestCakssZadanie3 {
+public class TestClassZadanie3 {
 
     Zadanie3 zadanie3;
 
