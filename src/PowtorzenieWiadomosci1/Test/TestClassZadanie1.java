@@ -21,8 +21,6 @@ public class TestClassZadanie1 {
         assertEquals(0, zadanie1.getModulo());
     }
 
-
-
     @Test
     public void whenGiveMaciejHolyszReturnZero(){
         Zadanie1 zadanie1 = new Zadanie1("Maciej", "Holysz");
